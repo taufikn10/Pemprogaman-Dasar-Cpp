@@ -1,8 +1,8 @@
 # Pemprogaman-Dasar-Cpp
 Materi Pemprogaman Dasar Semester 1 
+<br>
 
-
-
+<pre>
 1. Range-of-Numbers = Make code progam value range 
 2. Make-Simple-Calculator = Make code progam simple calculator 
 3. Decimal-Conversion = Make code progam convert decimal number
@@ -21,3 +21,4 @@ Materi Pemprogaman Dasar Semester 1
 16. factorial-value = Make code progam factorial value
 17. Nested Pointer = Make code progam nested pointer dasar 
 18. Function-Pointer = Make code progam Pointer with Function
+</pre>
