@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include <conio.h>
 using namespace std;
@@ -11,7 +12,10 @@ if (Desimal>1) {
 }
 int main ()
 {
+
+    cout <<"Masukkan Bilangan Desimal: ";
     cin>>Desimal;
+    cout <<"Dalam Oktal adalah: ";
     konversi(Desimal);
     cout << endl << endl;
     getch();
